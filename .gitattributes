@@ -5,3 +5,7 @@ train.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.p filter=lfs diff=lfs merge=lfs -text
 after_eda/* filter=lfs diff=lfs merge=lfs -text
+fea_sample/storage_sample_stage2.h5 filter=lfs diff=lfs merge=lfs -text
+fea_sample/storage_sample_stage3.h5 filter=lfs diff=lfs merge=lfs -text
+fea_sample/storage_sample_stage4.h5 filter=lfs diff=lfs merge=lfs -text
+fea_sample/storage_sample_stage1.h5 filter=lfs diff=lfs merge=lfs -text
